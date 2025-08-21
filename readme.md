@@ -24,8 +24,8 @@ This project is a modular Node.js + Express backend with MongoDB (Mongoose) that
 1. Install:
 
 ```bash
-git clone <your-repo>
-cd backend
+git clone https://github.com/ali-amir-code/t15-modified-rba.git
+cd t15-modified-rba
 npm install
 ```
 
